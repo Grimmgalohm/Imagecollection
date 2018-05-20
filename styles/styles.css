@@ -20,7 +20,7 @@ ul li{
     box-sizing: border-box;
     overflow: hidden;
     margin:0 auto;
-    transition: all .2s ease-in;
+    transition: all .2s ease-out;
 }
 ul li img{
     height: 100%;
